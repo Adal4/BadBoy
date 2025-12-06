@@ -1,4 +1,4 @@
-## Interface: 50500, 110105, 110107, 110200
+## Interface: 11508, 20505, 38000, 40402, 50502, 50503, 110207
 ## Version: @project-version@
 ## Title: BadBoy
 ## Notes: A simple spam blocker & reporter.
@@ -30,5 +30,5 @@ embeds.xml
 Locale.lua
 SimpleOptions.lua
 Generate.lua
-BadBoy.lua
-
+BadBoy.lua [AllowLoadGameType mainline, mists]
+BadBoy_Classic.lua [AllowLoadGameType vanilla, tbc, wrath, cata]
