@@ -1,4 +1,4 @@
-## Interface: 11508, 20505, 38000, 40402, 50502, 50503, 110207
+## Interface: 11508, 20505, 38000, 40402, 50503, 110207
 ## Version: @project-version@
 ## Title: BadBoy
 ## Notes: A simple spam blocker & reporter.
